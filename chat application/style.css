@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url(https://media.istockphoto.com/id/1290692464/photo/teamwork-network-and-community-concept.jpg?s=1024x1024&w=is&k=20&c=gYAzxmcw6axWsPGsVQsR6VUVAGfnoK2ml_dDrFicmpA=);
+    background-size: auto;
+}
+
+.chat-container {
+    width: 100%;
+    max-width: 450px;
+    background-color: #1d96e7;
+    padding: 20px;
+    border-radius: 30px;
+    box-shadow: 0 8px 10px rgba(0, 0, 0, 0.1);
+}
+
+#user-form {
+    text-align: center;
+}
+
+#chat-room {
+    text-align: center;
+}
+
+#messages {
+    height: 300px;
+    overflow-y: scroll;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+input, select, button {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+}
+
+button {
+    background-color: #5cb85c;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #4cae4c;
+}

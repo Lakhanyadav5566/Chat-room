@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat Application</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- This is a Simple Chat Application that is designed for simple conversation   -->
+
+    <div class="chat-container">
+        <div id="user-form">
+            <input type="text" id="username" placeholder="Enter your username">
+            <select id="room">
+                <option value="general">General</option>
+                <option value="tech">Tech</option>
+                <option value="gaming">Gaming</option>
+            </select>
+            <button id="join-btn">Join Chat</button>
+        </div>
+    
+        <div id="chat-room" style="display: none;">
+            <div id="messages"></div>
+            <input type="text" id="message" placeholder="Enter your message">
+            <button id="send-btn">Send</button>
+        </div>
+    </div>
+</body>
+<script src="app.js"></script>
+</html>
