@@ -11,7 +11,7 @@ Project Title: Chat application</pre>
 <h3>Overview of the Project</h3>
 <hr>
 <p>Project: Creating a simple chat application in which multiple user can chat in same time.</p> 
-![alt text](![Chat Application - Personal - Microsoft​ Edge 27-09-2024 13_34_49](https://github.com/user-attachments/assets/a3fbf5be-2b54-4b5c-8cc5-bb66389fd756)
-)
-(![Chat Application - Personal - Microsoft​ Edge 27-09-2024 13_34_49](https://github.com/user-attachments/assets/beaa7b85-6423-41e3-b0d7-f93cdb80d2e7)
+![Alt txt](https://github.com/user-attachments/assets/fbbb9c13-42d7-4fd8-9e9a-5fc48e8e5bdf)
+
+
 
